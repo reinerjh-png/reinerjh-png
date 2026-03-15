@@ -9,7 +9,7 @@ convertir ideas en sistemas reales.
 ## 🚀 ¿Qué hago?
 
 - 💼 Desarrollo aplicaciones web con **Laravel**, **Django** y **PHP**
-- 🎨 Construyo interfaces con **HTML, CSS y JavaScript**
+- 🎨 Construyo interfaces con **HTML, CSS y JavaScript** e implemento librerías
 - 🗄️ Diseño y optimizo bases de datos con **MySQL** y **PostgreSQL**
 - 🐍 Creo APIs y scripts con **Python / Flask / Django REST**
 - 🤖 Desarrollo e integro **chatbots con IA** desplegados en producción
