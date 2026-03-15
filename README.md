@@ -39,7 +39,7 @@ convertir ideas en sistemas reales.
 
 - Arquitectura de **microservicios**
 - **Inglés** para comunicación técnica
-- Buenas prácticas de **DevOps** y despliegue
+- Buenas prácticas de **DevOps** y despliegue de sistemas.
 
 ## ⚡ Fun fact
 
