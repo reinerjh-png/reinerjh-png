@@ -49,8 +49,6 @@ Cuando no estoy programando, entreno **calistenia** 💪
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reinerjh-png&theme=radical)](https://git.io/streak-stats)
 
-![Most Used Languages](https://raw.githubusercontent.com/cesaratvrz/github-stats-transparent/output/generated/languages.svg)
-
 ---
 
 📫 **¿Tienes un proyecto?** ¡Contáctame!
