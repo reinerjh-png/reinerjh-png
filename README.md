@@ -1,3 +1,5 @@
+<img src="./IMG_0811.png" alt="Banner" width="100%"/>
+
 # ¡Hola! Soy Reiner Jiménez 👋
 
 Desarrollador Full Stack freelance apasionado por construir soluciones web
