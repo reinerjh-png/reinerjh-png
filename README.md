@@ -2,13 +2,17 @@
 
 # ¡Hola! Soy Reiner Jiménez 👋
 
-Desarrollador Full Stack freelance apasionado por construir soluciones web
+Desarrollador Web Full Stack AI freelance apasionado por construir soluciones web
 funcionales y bien estructuradas. Vivo en Pucallpa, Perú 🇵🇪 y disfruto
 convertir ideas en sistemas reales.
 
+# Formacion académica 🎓
+
+Técnico profecional de la carrera de arquitectura de plataformas y servicios de tecnologías de la información.
+
 ## 🚀 ¿Qué hago?
 
-- 💼 Desarrollo aplicaciones web con **Laravel**, **Django** y **PHP**
+- 💼 Desarrollo aplicaciones web con **React**, **Django** y **PHP**
 - 🎨 Construyo interfaces con **HTML, CSS y JavaScript** e implemento librerías
 - 🗄️ Diseño y optimizo bases de datos con **MySQL** y **PostgreSQL**
 - 🐍 Creo APIs y scripts con **Python / Flask / Django REST**
@@ -33,7 +37,7 @@ convertir ideas en sistemas reales.
 - 🛒 **Sistema de ventas** — Gestión de productos, clientes y transacciones (Django + PostgreSQL)
 - 🏥 **Sistema de gestión clínica** — Control de pacientes, citas y reportes (Laravel + MySQL)
 - 🎟️ **Sistema de rifas y tickets** — Generación de tickets en PDF con Laravel
-- 🎓 **Validador de certificados** — API REST con Python/Flask para verificar documentos
+- 🦷 **Sistema odontológico** — PHP nativo + MySQL para la gestion de historias clinicas dentales.
 
 ## 📈 Actualmente aprendiendo
 
