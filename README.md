@@ -3,7 +3,7 @@
 # ¡Hola! Soy Reiner Jiménez 👋
 
 Desarrollador Web Full Stack AI freelance apasionado por construir soluciones web
-funcionales y bien estructuradas. Vivo en Pucallpa, Perú 🇵🇪 y disfruto
+funcionales y bien estructuradas. Vivo en Tingo María, Perú 🇵🇪 y disfruto
 convertir ideas en sistemas reales.
 
 # Formacion académica 🎓
